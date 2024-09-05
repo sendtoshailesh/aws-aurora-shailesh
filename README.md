@@ -60,14 +60,4 @@ Offers a guide to get started with near real-time operational analytics using Am
 ### [Join the preview of Amazon Aurora Limitless Database](https://aws.amazon.com/blogs/aws/join-the-preview-of-amazon-aurora-limitless-database/)
 Announces the preview of Amazon Aurora Limitless Database, supporting automated horizontal scaling for high-volume transactions and petabyte-scale data management.
 
-This list provides a comprehensive overview of recent AWS blog posts related to Amazon Aurora, covering various aspects such as job scheduling, migration, security, operational analytics, and new features.
 
-Citations:
-[1] https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_Tutorials.html
-[2] https://aws.amazon.com/blogs/aws/category/database/amazon-aurora/
-[3] https://www.projectpro.io/article/amazon-aurora/853
-[4] https://www.percona.com/blog/when-should-i-use-amazon-aurora-and-when-should-i-use-rds-mysql/
-[5] https://intellipaat.com/blog/what-is-aws-amazon-aurora/
-[6] https://aws.amazon.com/blogs/big-data/category/database/amazon-aurora/
-[7] https://tutorialsdojo.com/amazon-aurora/
-[8] https://aws.amazon.com/blogs/database/category/database/amazon-aurora/
